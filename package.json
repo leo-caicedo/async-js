@@ -4,7 +4,7 @@
   "description": "Curso de asincronismo Platzi",
   "main": "src/index.js",
   "scripts": {
-    "callback": "node src/callback/index.js"
+    "callback": "node src/callback/challenge.js"
   },
   "keywords": [
     "callbacks",
